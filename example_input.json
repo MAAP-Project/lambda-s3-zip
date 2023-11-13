@@ -1,0 +1,82 @@
+{
+  "bucket": "test-emile-zip-files",
+  "source_bucket": "maxar-opendata",
+  "destination_key": "test-maxar-opendata.zip",
+  "files": [
+    {
+      "uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301210/2023-03-14/1040010082988200-visual.tif",
+      "filename": "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301210/2023-03-14/1040010082988200-visual.tif",
+      "type": "file"
+    },
+    {
+      "uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301201/2023-03-14/1040010082988200-visual.tif",
+      "filename": "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301201/2023-03-14/1040010082988200-visual.tif",
+      "type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/47/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/48/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/49/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/50/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/51/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/52/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/53/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/54/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/55/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/56/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/57/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    },
+    {
+    	"uri": "events/BayofBengal-Cyclone-Mocha-May-23/ard/46/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"filename" : "maxar-opendata/events/BayofBengal-Cyclone-Mocha-May-23/ard/58/033111301200/2023-03-14/1040010082988200-visual.tif",
+    	"type": "file"
+    }
+  ]
+}
